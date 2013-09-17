@@ -1,0 +1,19 @@
+##########################################################################
+#
+# name: kpoints-bz-vasp.py
+# author: Keith Butler
+#
+##########################################################################
+A script for generating explicit KPOINTS fr Brillouin zone sampling.
+Requires as input a POSCAR file.
+Then asks for the crystal lattice type and the points to be samped and the
+number of sample points to use.
+##########################################################################
+
+Execution:
+python kpoints-bz-vasp.py
+
+Requirements: 
+ase, numpy
+
+##########################################################################
