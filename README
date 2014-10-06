@@ -4,7 +4,7 @@
 # author: Keith Butler
 #
 ##########################################################################
-A script for generating explicit KPOINTS fr Brillouin zone sampling.
+A script for generating explicit KPOINTS for Brillouin zone sampling.
 Requires as input a POSCAR file.
 Then asks for the crystal lattice type and the points to be samped and the
 number of sample points to use.
